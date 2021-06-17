@@ -1,0 +1,26 @@
+[
+    {
+    "img": "../asserts/images/dog.jpg",
+     "alt": "The atacama desert",
+     "name": "The atacama desert",
+     "button":"View Destination"
+    },
+
+    {
+        "img": "../asserts/images/cat.jpg",
+         "alt": "The atacama desert",
+         "name": "The atacama desert",
+         "button":"View Destination"
+        },
+
+        {
+            "img": "../asserts/images/p.jpg",
+             "alt": "The atacama desert",
+             "name": "The atacama desert",
+             "button":"View Destination"
+            }
+
+         
+            
+      
+]
